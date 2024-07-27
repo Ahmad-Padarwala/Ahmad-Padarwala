@@ -3,6 +3,15 @@
 Welcome to my GitHub profile! I'm **Nofal Basan** (he/him).
 
 ---
+<a href="https://github.com/Ahmad-Padarwala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Padarwala&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
+</a>
+<td>
+<a href="https://github.com/Ahmad-Padarwala">
+  <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Padarwala&hide=jupyter%20notebook,css&layout=compact&theme=dracula" />
+</a>
+
 
 ### About Me
 
