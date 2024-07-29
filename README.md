@@ -27,7 +27,7 @@ I am a **Full Stack Developer** currently working at **Valudas Tech Park**. With
 <img src="https://img.shields.io/badge/-Node.js-87BF00?&style=for-the-badge&logo=node.js&logoColor=black" />
   <img src="https://img.shields.io/badge/-Express.js-F7F7F7?&style=for-the-badge&logo=express&logoColor=black" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/-MongoDB-006548?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-postgresql-006548?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-42759C?&style=for-the-badge&logo=mysql&logoColor=f7f7f7" />
 <img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=next.js&logoColor=f7f7f7" />
 
@@ -50,7 +50,7 @@ I am a **Full Stack Developer** currently working at **Valudas Tech Park**. With
   
 
 ### 🌱 Currently Learning
-- Advanced JavaScript frameworks (Next.js, Svelte)
+- Advanced JavaScript frameworks (Vue.js, Svelte)
 - Cloud computing (AWS, Azure)
 - AI and Machine Learning
 
@@ -68,7 +68,7 @@ I am a **Full Stack Developer** currently working at **Valudas Tech Park**. With
 - LinkedIn: [ahmad Padarwala](https://www.linkedin.com/in/ahmad-padarwala/)
 
 ### ⚡ Fun Fact
-- When I'm not coding, you can find me exploring the latest tech trends, playing Cricket, or enjoying a good book.
+- When I'm not coding, you can find me exploring the latest tech trends, playing Football, or enjoying a good book.
 
 ---
 
