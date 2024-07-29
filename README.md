@@ -6,6 +6,11 @@ Welcome to my GitHub profile! I'm **Ahmad Padarwala** (he/him).
 <a href="https://github.com/Ahmad-Padarwala">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Padarwala&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
 </a>
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Padarwala&layout=compact&theme=radical)
+
+<!--
 <td>
 
 
@@ -71,11 +76,7 @@ I am a **Full Stack Developer** currently working at **Valudas Tech Park**. With
 
 Feel free to explore my repositories and connect with me. I'm open to exciting opportunities and collaborative projects!
 
----
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Padarwala&layout=compact&theme=radical)
-
-<!--
 **Ahmad-Padarwala/Ahmad-Padarwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
