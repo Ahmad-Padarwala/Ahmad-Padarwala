@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Nofal Basan** (he/him).
+Welcome to my GitHub profile! I'm **Ahmad Padarwala** (he/him).
 
 ---
 <a href="https://github.com/Ahmad-Padarwala">
