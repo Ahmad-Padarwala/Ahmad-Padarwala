@@ -7,15 +7,12 @@ Welcome to my GitHub profile! I'm **Ahmad Padarwala** (he/him).
 <a href="https://github.com/Ahmad-Padarwala">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Padarwala&show_icons=true&theme=dracula&private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
-
-<a href="https://github.com/Ahmad-Padarwala">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Padarwala&theme=dracula" alt="GitHub Streak Stats" />
-</a>
-
 <a href="https://github.com/Ahmad-Padarwala">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Padarwala&layout=compact&theme=radical" alt="Top Languages" />
 </a>
-
+<a href="https://github.com/Ahmad-Padarwala">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Padarwala&theme=dracula" alt="GitHub Streak Stats" />
+</a>
 ---
 
 ### About Me
