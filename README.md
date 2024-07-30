@@ -71,6 +71,7 @@ I am a **Full Stack Developer** currently working at **Valudas Tech Park**. With
 ### 📫 How to Reach Me
 - Email: [ahmadpadarwala4@gmail.com](mailto:ahmadpadarwala4@gmail.com)
 - LinkedIn: [ahmad Padarwala](https://www.linkedin.com/in/ahmad-padarwala/)
+- Portfolio Website: [ahmad Padarwala](https://ahmad-padarwala.github.io/portfolio/)
 
 ### ⚡ Fun Fact
 - When I'm not coding, you can find me exploring the latest tech trends, playing Football, or enjoying a good book.
