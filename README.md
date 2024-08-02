@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm **Ahmad Padarwala** (he/him).
 
 ### About Me
 
-I am a **Full Stack Developer** currently working at **Valudas Tech Park**. With a passion for coding and a knack for creating dynamic web and mobile applications, I thrive on turning ideas into reality.
+I am a **MERN Stack Developer** currently working at **Valudas Tech Park**. With a passion for coding and a knack for creating dynamic web and mobile applications, I thrive on turning ideas into reality.
 
 ---
 
