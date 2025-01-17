@@ -6,7 +6,7 @@
 <h3 align="center">A smooth sea never made skilled sailor,  "Franklin D. Roosevelt"</h3>
 
 <p align="center">
-  <a href="https://github.com/adilkadivala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=36C2CE&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+Debug+and+contribute+%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>
+  <a href="https://github.com/Ahmad-Padarwala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=36C2CE&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+Debug+and+contribute+%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>
 </p>
 
 🌐 I am a passionate MERN Stack Developer and software engineer student (currently in my 3rd semester) with a deep curiosity for the latest advancements in web development and software technology. I’m actively seeking opportunities to apply my skills through an internship in Full-Stack Development to build scalable, high-performance solutions.
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>
-      <img align="center"  height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Padarwala&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Ahmad-Padarwala(K-ADI)" /> 
+      <img align="center"  height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Padarwala&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Ahmad-Padarwala(Padarwala Ahmad)" /> 
     </td>
     <td>
       <img align="center" src="https://stats.quira.sh/Ahmad-Padarwala/github?theme=dark(https://quira.sh?utm_source=widgets&utm_campaign=Ahmad-Padarwala" alt="Ahmad-Padarwala's GitHub | Stats)" height="250" width="400"/>  
