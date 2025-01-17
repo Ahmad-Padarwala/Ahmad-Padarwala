@@ -60,6 +60,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmad-padarwala/" target=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.linkedin.com/in/ahmad-padarwala/" target=""><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfoli0&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ahmad-padarwala/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ahmad-padarwala.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfoli0&logoColor=white" alt="Portfolio"></a>
 </div>
