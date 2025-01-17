@@ -37,8 +37,6 @@
   </tr>
 </table>
 
-
-<h3 align="left"> 🎉 Hacktoberfest Contribution rewards </h3>
 <h3 align="left"> 🎓 Play Ground</h3>
 
 
