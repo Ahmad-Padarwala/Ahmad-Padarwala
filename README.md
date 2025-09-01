@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   , I'm Ahmad Padarwala
 </h1>
-<h3 align="center">A smooth sea never made skilled sailor,  "Franklin D. Roosevelt"</h3>
+<h3 align="center">A smooth sea never made skilled sailor,  "Ahmad Padarwala"</h3>
 
 <p align="center">
   <a href="https://github.com/Ahmad-Padarwala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=36C2CE&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+Debug+and+contribute+%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>
 </p>
 
-🌐 I am a passionate MERN Stack Developer and software engineer student (currently in my 3rd semester) with a deep curiosity for the latest advancements in web development and software technology. I’m actively seeking opportunities to apply my skills through an internship in Full-Stack Development to build scalable, high-performance solutions.
+🌐 I am a passionate MERN Stack Developer and software engineer student with a deep curiosity for the latest advancements in web development and software technology.
 
 💡 My technical journey has equipped me with a solid foundation in front-end and back-end technologies, and I’m always eager to embrace new challenges. From collaborating on innovative projects to staying updated with emerging trends, I thrive in environments where learning and creating something extraordinary are at the core.
 
